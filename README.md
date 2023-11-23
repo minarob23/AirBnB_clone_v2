@@ -47,7 +47,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * We strongly encourage you to work together on test cases, so that you don’t miss any edge case
  
 ## Installation
-* Clone this repository: git clone "https://github.com/alexaorrico/AirBnB_clone.git"
+* Clone this repository: git clone "https://github.com/minarob23/AirBnB_clone_v2.git"
 * Access AirBnb directory: cd AirBnB_clone
 * Run hbnb(interactively): ./console and enter command
 * Run hbnb(non-interactively): echo "<command>" | ./console.py
